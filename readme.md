@@ -1,5 +1,5 @@
 # Sitecore.Support.7089
-This patch fixes the issue which occures during export if languageEmbedding=&quot;always&quot;
+This patch fixes the issue which occurs during export if languageEmbedding=&quot;always&quot;
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.7089/blob/master/LICENSE).  
